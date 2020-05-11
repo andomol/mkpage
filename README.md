@@ -1,3 +1,1 @@
-# mkpage
-
-HTML and CSS esercise
+TinDog Starting Files
